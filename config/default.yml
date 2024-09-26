@@ -1,0 +1,6 @@
+ExcludeFolders:
+  - node_modules
+
+ExcludeFiles:
+  - package.json
+  - package-lock.json
